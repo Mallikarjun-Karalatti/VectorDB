@@ -1,0 +1,3 @@
+/Users/mallikarjunkaralatti/Desktop/VectorDB/core/build/CMakeFiles/vektor_core.dir
+/Users/mallikarjunkaralatti/Desktop/VectorDB/core/build/CMakeFiles/edit_cache.dir
+/Users/mallikarjunkaralatti/Desktop/VectorDB/core/build/CMakeFiles/rebuild_cache.dir

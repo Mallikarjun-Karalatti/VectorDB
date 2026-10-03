@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -fPIC -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libvektor_core.dylib -install_name @rpath/libvektor_core.dylib CMakeFiles/vektor_core.dir/src/engine_c_api.cpp.o CMakeFiles/vektor_core.dir/src/simddistance.cpp.o
